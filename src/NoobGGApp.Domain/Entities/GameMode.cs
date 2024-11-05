@@ -8,7 +8,7 @@ public sealed class GameMode : EntityBase<long>
     public string Description { get; set; }
     public string ImageUrl { get; set; }
 
-    public Guid GameId { get; set; }
+    public long GameId { get; set; }
     public Game Game { get; set; }
 
     public override string CreatedByUserId { get; set; } = "Merve";

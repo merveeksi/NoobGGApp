@@ -2,7 +2,7 @@ using NoobGGApp.Domain.Common.Entities;
 
 namespace NoobGGApp.Domain.Entities;
 
-public sealed class GameRegion : EntityBase<int>
+public sealed class GameRegion : EntityBase<long>
 {
     public string Name { get; set; }
     public string Description { get; set; }

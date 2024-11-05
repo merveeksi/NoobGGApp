@@ -9,3 +9,5 @@
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Domain/obj/Debug/net8.0/refint/NoobGGApp.Domain.dll
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Domain/obj/Debug/net8.0/NoobGGApp.Domain.pdb
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Domain/obj/Debug/net8.0/ref/NoobGGApp.Domain.dll
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Domain/obj/Debug/net8.0/NoobGGApp.Domain.csproj.AssemblyReference.cache
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Domain/obj/Debug/net8.0/NoobGGApp.Domain.sourcelink.json
