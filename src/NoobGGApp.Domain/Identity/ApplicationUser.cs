@@ -1,9 +1,10 @@
 using Microsoft.AspNetCore.Identity;
 using NoobGGApp.Domain.Common.Entities;
+using NoobGGApp.Domain.Entities;
 
 namespace NoobGGApp.Domain.Identity;
 
-public class ApplicationUser: IdentityUser<Guid>, IEntity<Guid>, ICreatedByEntity, IModifiedByEntity
+public sealed class ApplicationUser: IdentityUser<Guid>, IEntity<Guid>, ICreatedByEntity, IModifiedByEntity
 {
 
     public string CreatedByUserId { get; set; }

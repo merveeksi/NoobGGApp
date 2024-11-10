@@ -28,7 +28,7 @@ public sealed record FullName
         return Regex.IsMatch(value, Pattern) && value.Length >= MinLength && value.Length <= MaxLength;
     }
 
-    public static FullName Create(string value) // FullName fullName = "Merve Ekşi";
+    public static FullName Create(string value) // FullName fullName = "Alper Tunga";
     {
 
         var parts = value.Split(' ', StringSplitOptions.RemoveEmptyEntries);

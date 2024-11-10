@@ -3,7 +3,7 @@ using NoobGGApp.Domain.ValueObjects;
 
 namespace NoobGGApp.Domain.Entities;
 
-public sealed class Customer : EntityBase<long>
+public sealed class Customer : EntityBase<CustomerId>
 {
 
     public Customer(Email email)

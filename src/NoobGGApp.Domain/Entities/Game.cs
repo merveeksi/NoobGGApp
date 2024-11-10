@@ -4,7 +4,7 @@ using TSID.Creator.NET;
 
 namespace NoobGGApp.Domain.Entities;
 
-public sealed class Game : EntityBase<Guid>
+public sealed class Game : EntityBase<long>
 {
     public string Name { get; set; }
     public string Description { get; set; }
@@ -13,6 +13,6 @@ public sealed class Game : EntityBase<Guid>
 
     public Game()
     {
-       
+        Id = TsidCreator.GetTsid().ToLong();
     }
 }

@@ -1,0 +1,6 @@
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/NoobGGApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/NoobGGApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/NoobGGApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/NoobGGApp.Infrastructure.AssemblyInfo.cs
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/NoobGGApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/NoobGGApp.Infrastructure.sourcelink.json

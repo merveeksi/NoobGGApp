@@ -1,0 +1,16 @@
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/bin/Debug/net8.0/NoobGGApp.Application.deps.json
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/bin/Debug/net8.0/NoobGGApp.Application.dll
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/bin/Debug/net8.0/NoobGGApp.Application.pdb
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/bin/Debug/net8.0/NoobGGApp.Domain.dll
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/bin/Debug/net8.0/NoobGGApp.Domain.pdb
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/NoobGGApp.Application.csproj.AssemblyReference.cache
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/NoobGGApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/NoobGGApp.Application.AssemblyInfoInputs.cache
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/NoobGGApp.Application.AssemblyInfo.cs
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/NoobGGApp.Application.csproj.CoreCompileInputs.cache
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/NoobGGApp.Application.sourcelink.json
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/NoobGGAp.E46641F6.Up2Date
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/NoobGGApp.Application.dll
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/refint/NoobGGApp.Application.dll
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/NoobGGApp.Application.pdb
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Application/obj/Debug/net8.0/ref/NoobGGApp.Application.dll
