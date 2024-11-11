@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoobGGApp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba1ea8e75f4f3fad02d0988359892ecbdbef8264")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2879e8ec9194b44cdbbde8be2723aa91262ef6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoobGGApp.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoobGGApp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

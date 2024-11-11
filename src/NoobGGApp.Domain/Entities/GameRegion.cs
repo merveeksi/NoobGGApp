@@ -19,7 +19,7 @@ public sealed class GameRegion : EntityBase<long>
             Id = TsidCreator.GetTsid().ToLong(),
             Name = name,
             Code = code,
-            GameId = gameId,
+            GameId = gameId
         };
 
         gameRegion.RaiseDomainEvent(new GameRegionCreatedDomainEvent(gameRegion.Id));

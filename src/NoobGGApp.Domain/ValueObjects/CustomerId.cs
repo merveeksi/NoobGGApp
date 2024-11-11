@@ -1,5 +1,6 @@
 namespace NoobGGApp.Domain.ValueObjects;
 
+//struct ile immutable bir yapı oluşturulur. 'long' yerine 'CustomerId' yazabildik Customer classında.
 public record struct CustomerId
 {
     public long Value { get; init; }

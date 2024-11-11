@@ -60,6 +60,10 @@ public class CustomerConfiguration : IEntityTypeConfiguration<Customer>
             .IsRequired()
             .HasMaxLength(100)
             .HasColumnName("state");
+            
+            addressBuilder.Property(address => address.Apartment)
+            .HasMaxLength(100)
+            .HasColumnName("apartment");
         });
     }
 }
