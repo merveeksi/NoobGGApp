@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoobGGApp.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22bb48c27b631fd5ad2ccb4f702a903a1d023ee3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9962919f984cee35f018b9ecf159c2f71e1c3135")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoobGGApp.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoobGGApp.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
