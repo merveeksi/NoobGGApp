@@ -15,4 +15,6 @@ public sealed class Game : EntityBase<long>
     {
         Id = TsidCreator.GetTsid().ToLong();
     }
+
+    public ICollection<GameRegion> GameRegions { get; set; } = [];
 }
