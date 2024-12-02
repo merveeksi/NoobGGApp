@@ -27,7 +27,6 @@
     <ItemGroup>
       <ProjectReference Include="..\NoobGGApp.Application\NoobGGApp.Application.csproj" />
       <ProjectReference Include="..\NoobGGApp.Domain\NoobGGApp.Domain.csproj" />
-      <ProjectReference Include="..\NoobGGApp.WebApi\NoobGGApp.WebApi.csproj" />
     </ItemGroup>
 
 </Project>

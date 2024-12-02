@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoobGGApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8e534d44cdd58cfb89df1f4324ea85485760aff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e92035c14a9cbb5cf72871e7b0d5ce0ab23141b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoobGGApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoobGGApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
