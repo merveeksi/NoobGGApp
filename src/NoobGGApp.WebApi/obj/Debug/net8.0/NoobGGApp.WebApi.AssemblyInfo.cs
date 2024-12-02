@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoobGGApp.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+860670b07d61bc08e73aeaefdac6a6352be0572c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8e534d44cdd58cfb89df1f4324ea85485760aff")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoobGGApp.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoobGGApp.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
