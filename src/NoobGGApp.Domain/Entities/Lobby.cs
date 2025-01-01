@@ -18,18 +18,25 @@ public class Lobby : EntityBase<long>
     public GameRank MinGameRank { get; private set; }
     public long? MaxGameRankId { get; private set; }
     public GameRank MaxGameRank { get; private set; }
+    
     public int MinTeamSize { get; set; } = 1;
     public int MaxTeamSize { get; set; } = 3;
+    
     public string? Note { get; set; }
     public bool IsMicrophoneRequired { get; private set; }
+    
     public long CreatorId { get; private set; }
     public ApplicationUser Creator { get; private set; }
+    
     public long OwnerId { get; private set; }
     public ApplicationUser Owner { get; private set; }
     // Bu alan optimistic concurrency için eklendi.
     // Bu sayede SaveChanges() esnasında kontrol edilir.
     public byte[] RowVersion { get; private set; }
+    
     public ICollection<LobbyLanguage> LobbyLanguages { get; private set; } = [];
+    public ICollection<LobbyMessage> LobbyMessages { get; private set; } = [];
+    public ICollection<LobbyEventHistory> LobbyEventHistories { get; private set; } = [];
 
     public static Lobby Create(long gameId, long gameModeId, long gameRegionId, long customerId)
     {

@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using NoobGGApp.Application.Common.Interf;
 using NoobGGApp.Application.Common.Interfaces;
+using NoobGGApp.Domain.Settings;
 using NoobGGApp.Infrastructure.Persistence.EntityFramework.Contexts;
 using NoobGGApp.Infrastructure.Services;
 using StackExchange.Redis;
@@ -26,9 +28,14 @@ public static class DependencyInjection
         services.AddSingleton<ICacheKeyFactory, CacheKeyFactory>();
         services.AddScoped<ICacheInvalidator, CacheInvalidator>();
         
+        services.AddScoped<IObjectStorage, S3ObjectStorageManager>();
+        
         // Register Redis connection for advanced operations
         services.AddSingleton<IConnectionMultiplexer>(sp =>
             ConnectionMultiplexer.Connect(configuration.GetConnectionString("Redis")));
+        
+        // Register S3 settings
+        services.Configure<S3Settings>(bind => configuration.GetSection("S3Settings").Bind(bind));
         
         return services;
     }

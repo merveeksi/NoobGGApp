@@ -225,6 +225,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.410.12, )"
+            },
             "EFCore.NamingConventions": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -256,6 +260,10 @@
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",

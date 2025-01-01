@@ -1,4 +1,5 @@
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/bin/Debug/net8.0/NoobGGApp.Infrastructure.deps.json
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/bin/Debug/net8.0/NoobGGApp.Infrastructure.runtimeconfig.json
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/bin/Debug/net8.0/NoobGGApp.Infrastructure.dll
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/bin/Debug/net8.0/NoobGGApp.Infrastructure.pdb
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/bin/Debug/net8.0/NoobGGApp.Application.dll
@@ -15,6 +16,5 @@
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/NoobGGApp.Infrastructure.dll
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/refint/NoobGGApp.Infrastructure.dll
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/NoobGGApp.Infrastructure.pdb
-/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/ref/NoobGGApp.Infrastructure.dll
-/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/bin/Debug/net8.0/NoobGGApp.Infrastructure.runtimeconfig.json
 /Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/NoobGGApp.Infrastructure.genruntimeconfig.cache
+/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/obj/Debug/net8.0/ref/NoobGGApp.Infrastructure.dll

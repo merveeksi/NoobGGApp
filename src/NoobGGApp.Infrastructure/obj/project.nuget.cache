@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GRyuIpCj94Q=",
+  "dgSpecHash": "QMDvyegR8qc=",
   "success": true,
   "projectFilePath": "/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/NoobGGApp.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/pc/.nuget/packages/awssdk.core/3.7.400.70/awssdk.core.3.7.400.70.nupkg.sha512",
+    "/Users/pc/.nuget/packages/awssdk.s3/3.7.410.12/awssdk.s3.3.7.410.12.nupkg.sha512",
     "/Users/pc/.nuget/packages/efcore.namingconventions/8.0.3/efcore.namingconventions.8.0.3.nupkg.sha512",
     "/Users/pc/.nuget/packages/fluentvalidation/11.10.0/fluentvalidation.11.10.0.nupkg.sha512",
     "/Users/pc/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.10.0/fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
@@ -30,6 +32,7 @@
     "/Users/pc/.nuget/packages/microsoft.extensions.caching.stackexchangeredis/8.0.11/microsoft.extensions.caching.stackexchangeredis.8.0.11.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/pc/.nuget/packages/microsoft.extensions.configuration.binder/8.0.2/microsoft.extensions.configuration.binder.8.0.2.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.1/microsoft.extensions.configuration.fileextensions.8.0.1.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.configuration.json/8.0.1/microsoft.extensions.configuration.json.8.0.1.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
