@@ -229,7 +229,10 @@
           "TSID.Creator.NET": "1.0.0"
         },
         "runtime": {
-          "NoobGGApp.Domain.dll": {}
+          "NoobGGApp.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QoAjL+Q0Jsk=",
+  "dgSpecHash": "GRyuIpCj94Q=",
   "success": true,
   "projectFilePath": "/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/NoobGGApp.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -62,7 +62,9 @@
     "/Users/pc/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/pc/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "/Users/pc/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512",
-    "/Users/pc/.nuget/packages/tsid.creator.net/1.0.0/tsid.creator.net.1.0.0.nupkg.sha512"
+    "/Users/pc/.nuget/packages/tsid.creator.net/1.0.0/tsid.creator.net.1.0.0.nupkg.sha512",
+    "/Users/pc/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/pc/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }

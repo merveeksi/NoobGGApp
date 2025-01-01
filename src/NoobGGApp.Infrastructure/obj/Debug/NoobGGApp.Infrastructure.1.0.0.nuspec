@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NoobGGApp.Infrastructure</id>
+    <version>1.0.0</version>
+    <authors>NoobGGApp.Infrastructure</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="bd2a2d76e7ec7c03292e9802a9d9441c2339dffc" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="NoobGGApp.Application" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NoobGGApp.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="EFCore.NamingConventions" version="8.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.11" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.StackExchangeRedis" version="8.0.11" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="8.0.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/bin/Debug/net8.0/NoobGGApp.Infrastructure.runtimeconfig.json" target="lib/net8.0/NoobGGApp.Infrastructure.runtimeconfig.json" />
+    <file src="/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Infrastructure/bin/Debug/net8.0/NoobGGApp.Infrastructure.dll" target="lib/net8.0/NoobGGApp.Infrastructure.dll" />
+  </files>
+</package>

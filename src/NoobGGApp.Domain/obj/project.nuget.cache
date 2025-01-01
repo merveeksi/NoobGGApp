@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "comJGEvfwIA=",
+  "dgSpecHash": "7R5PpxzuHNs=",
   "success": true,
   "projectFilePath": "/Users/pc/Desktop/NoobGGApp/src/NoobGGApp.Domain/NoobGGApp.Domain.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,9 @@
     "/Users/pc/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "/Users/pc/.nuget/packages/tsid.creator.net/1.0.0/tsid.creator.net.1.0.0.nupkg.sha512"
+    "/Users/pc/.nuget/packages/tsid.creator.net/1.0.0/tsid.creator.net.1.0.0.nupkg.sha512",
+    "/Users/pc/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/pc/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }

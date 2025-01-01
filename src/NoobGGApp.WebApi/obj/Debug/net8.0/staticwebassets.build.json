@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NTZsZ8TidQwOoHeCsmSKXwYClwQTU7Yl/HUyzVGnubA=",
+  "Source": "NoobGGApp.WebApi",
+  "BasePath": "_content/NoobGGApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
